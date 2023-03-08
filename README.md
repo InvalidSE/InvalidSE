@@ -9,5 +9,5 @@ Discord: InvalidSE#8824
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=InvalidSe&show_icons=true&theme=radical) 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InvalidSE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InvalidSE&layout=compact&theme=radical)
 
