@@ -4,7 +4,7 @@ We do a little coding
 
 
 ### Contact
-Email: taine.reader@gmail.com
+Email: taine.reader@gmail.com\
 Discord: InvalidSE#8824
 
 
