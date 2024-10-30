@@ -1,7 +1,5 @@
 # Hi, I'm Taine
 
-We do a little coding
-
 
 ### Contact
 Email: me@invalidse.com\
